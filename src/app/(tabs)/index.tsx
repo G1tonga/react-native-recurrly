@@ -19,10 +19,7 @@ export default function App() {
       <Link href="/(auth)/sign-up" className="bg-primary mt-4 rounded p-4 text-white">
         Go to Sign Up
       </Link>
-      <Link
-        href="/src/app/subscriptions/spotify"
-        className="bg-primary mt-4 rounded p-4 text-white"
-      >
+      <Link href="/subscriptions/spotify" className="bg-primary mt-4 rounded p-4 text-white">
         Subscription
       </Link>
       <Link
